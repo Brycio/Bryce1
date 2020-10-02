@@ -8,10 +8,13 @@ p{
 }
 
 .header-image{
-    background-image: url("/images/1.png");
+    background-image: url('1.png');
     background-position: center;
-    background-size: cover;
     background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     height: 100vh;
 }
 
@@ -129,14 +132,6 @@ margin: auto;
     border-radius: 5px;
 }
 
-.projects-block1 {
-
-}
-
-.projects-block2{
-    
-}
-
 
 .section4{
     font-family: 'Roboto', sans-serif;
@@ -186,10 +181,6 @@ font-size: 1.3rem;
 
 #social{
     height: 40px;
-}
-
-#section5-header{
-
 }
 
 .contact2{
