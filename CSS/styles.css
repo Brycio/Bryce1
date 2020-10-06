@@ -172,7 +172,8 @@ width: 100%;
 background-color:#222121;
 color: white;
 height: 500px;
-font-size: 1.3rem;
+font-size: 1.3rem; 
+font-family: 'Roboto', sans-serif;
 }
 
 .contact1{
