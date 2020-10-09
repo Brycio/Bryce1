@@ -11,6 +11,11 @@ h3{
     font-family: 'Roboto', sans-serif;
 }
 
+#profile-pic{
+    border-radius: 150px;
+    border:2px solid black;
+}
+
 .header-image{
     background-image: url("../images/1.png");
     background-position: center;
