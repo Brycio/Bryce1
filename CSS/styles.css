@@ -48,6 +48,8 @@ h3{
 height: 260px;
 position: relative;
 right: 0;
+border-radius: 150px;
+border:2px solid black;
 }
 
 .section2{
